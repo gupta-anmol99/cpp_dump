@@ -13,7 +13,7 @@ Index -
 * Tutorial 21 Notes - Notes on Constructors in derived class
 * Tutorial 21 - Constructors in derived classes
 * Tutorial 22 - Initialization List
-* * Tutorial 23 - Pointers reivision
+* Tutorial 23 - Pointers reivision
 * Tutorial 24 - new and delete keyword in pointers
 * Tutorial 25 - Pointers for objects and arrow operator
 * Tutorial 26 - this pointer
