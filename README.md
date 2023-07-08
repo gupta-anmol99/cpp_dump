@@ -23,4 +23,8 @@ Index -
 * Tutorial 30 - Abstract base classes and Pure virutal functions
 * Tutorial 31 - File I/O in C++
 * Tutorial 32 - File I/O in C++ contd.
+* Tutorial 33 - Templates in C++
+* Tutorial 34 - Templates in C++ contd.
+* Tutorial 35 - Vectors 
+* Tutorial 36 - Maps
 
